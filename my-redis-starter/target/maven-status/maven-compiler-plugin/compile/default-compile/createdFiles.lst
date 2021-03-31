@@ -1,0 +1,2 @@
+com\github\wangxingangs\bean\RedisAutoConfiguration.class
+com\github\wangxingangs\configuration\RedisProperties.class
